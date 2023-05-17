@@ -1,6 +1,6 @@
 # RestAPI Express & MongoDB - Productos
 
-Este proyecto es una aplicación de productos que utiliza una API REST construida con Express.js y MongoDB, mas adelante se implementara Vue o Angular para el front y que realmente sea una restapi UwU.
+Este proyecto es una aplicación de productos que utiliza una API REST construida con Express.js y MongoDB, mas adelante se implementara Vue o Angular para el front y que realmente sea una restapi UwU https://restapi-express-mongodb-railway-production.up.railway.app/products
 
 ## Instalación y configuración
 
