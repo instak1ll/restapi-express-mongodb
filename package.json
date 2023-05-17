@@ -1,17 +1,21 @@
 {
   "name": "restapi-express-mongodb-railway",
   "version": "1.0.0",
-  "description": "",
+  "description": "Una aplicación REST API utilizando Express.js y MongoDB",
   "main": "server.js",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "start":"node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Artem",
+  "license": "GPL-2.0",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "mongodb": "^5.5.0",
-    "mongoose": "^7.1.1",
-    "nodemon": "^2.0.22"
+    "mongoose": "^7.1.1"
+  },
+  "devDependencies": {
+    "nodemon":"^2.0.22"
   }
 }
