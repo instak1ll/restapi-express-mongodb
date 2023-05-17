@@ -6,5 +6,5 @@ const productSchema = mongoose.Schema({
     price: { type: Number, require: true },
 }, { timestamps: true })
 
-const Product = mongoose.model('Product', productSchema)
-module.export = Product
+const Product = mongoose.model("Product", productSchema)
+module.exports = Product
